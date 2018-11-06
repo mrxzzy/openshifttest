@@ -1,2 +1,2 @@
-# openshifttest
-lets build a thing in openshift
+# jankytest
+let's test some jenkins builds!
